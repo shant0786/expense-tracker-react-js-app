@@ -1,4 +1,3 @@
-````markdown
 # Expense Tracker App
 
 A dynamic **Expense Tracker** built with **React.js** and styled with **Chakra UI**, enabling users to efficiently manage income and expenses. The app calculates balance in real-time, visualizes data with charts, and provides a detailed transaction history.
@@ -44,7 +43,7 @@ src
 ├── index.js                    # Entry point
 └── styles.css                  # Additional styles
 ```
-````
+
 
 ---
 
@@ -110,7 +109,7 @@ For questions or feedback:
 
 - **GitHub**: [@shant0786](https://github.com/shant0786)
 
-```
+
 
 ### Highlights:
 1. **Tech Stack**: Mentioned Chakra UI and React.js hooks like `useState`, `useEffect`, and `useDisclosure`.
@@ -118,4 +117,4 @@ For questions or feedback:
 3. **Project Structure**: Included details about file organization.
 
 Feel free to customize it further based on additional details about your app!
-```
+
